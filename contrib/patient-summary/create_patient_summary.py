@@ -120,7 +120,7 @@ def generate_index_page(files):
         </style>
     </head>
     <body>
-        <h1>🏥 Patient Directory</h1>
+        <h1>Patient Directory</h1>
         <p>Total Patients: """ + str(len(files)) + """</p>
     """
     
